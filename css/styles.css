@@ -1,0 +1,24 @@
+body {
+	font-family: "Montserrat", Arial, sans-serif;
+}
+
+.jumbotron {
+	background-color: rgba(19, 101, 9, 0.58);
+	box-shadow: 0 2px 4px #666666;
+}
+
+.jumbotron h1 {
+	color: #ffffff;
+	font-family: "Raleway", Arial, sans-serif;
+	font-weight: 300;
+	font-size: 60px;
+	letter-spacing: 2px;
+}
+
+section h2 {
+	margin-top: 0;
+	font-family: "Raleway", Arial, sans-serif;
+	font-weight: 600;
+	letter-spacing: 1px;
+}
+
